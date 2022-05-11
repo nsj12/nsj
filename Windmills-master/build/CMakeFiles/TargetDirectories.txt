@@ -1,0 +1,3 @@
+/home/ymj/Desktop/Windmills-master/build/CMakeFiles/opencv_example.dir
+/home/ymj/Desktop/Windmills-master/build/CMakeFiles/edit_cache.dir
+/home/ymj/Desktop/Windmills-master/build/CMakeFiles/rebuild_cache.dir
